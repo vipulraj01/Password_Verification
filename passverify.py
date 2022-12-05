@@ -1,3 +1,4 @@
+# This is a username and password program created in python with database internally
 import getpass
 database = {"vipulraj01": "123456", "vipulraj02": "000000"}
 username = input("Enter Your Username : ")
